@@ -11,5 +11,5 @@ UI & UX DESIGN: Figma • Adobe XD • Adobe Photoshop • Basic Illustrator •
 
 MISCELLANEOUS: Git • WordPress • WooCommerce • Microsoft Office (Word, Excel & PowerPoint) • Android, iOS, and Desktop WebView App • Basic Digital Marketing & Video Editing
 
-**Feel free to reach out, whether you'd like to discuss a project, seek advice, or simply have a chat. I'm just a message away!
-💬 Message me on [Linkedin.](https://www.linkedin.com/in/md-arif-hossain-akash/)**
+***Feel free to reach out, whether you'd like to discuss a project, seek advice, or simply have a chat. I'm just a message away!
+💬 Message me on [Linkedin.](https://www.linkedin.com/in/md-arif-hossain-akash/)***
