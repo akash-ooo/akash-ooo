@@ -1,5 +1,5 @@
 # 👋🏾 👩🏾‍💻 As-Salamu Alaykum (Peace Be Upon You)
-Greetings, I'm Arif! As a fullstack web developer with over 5 years of experience, including a year dedicated to UI & UX design, my passion lies in crafting cutting-edge web solutions that revolve around user-centric design and innovation. My mission is to drive your success through a combination of code, design, and creative thinking.
+Greetings, I'm Arif! As a fullstack web developer with over 4+ years of experience, including a year dedicated to UI & UX design, my passion lies in crafting cutting-edge web solutions that revolve around user-centric design and innovation. My mission is to drive your success through a combination of code, design, and creative thinking.
  
 
 ### **</> Skills**
