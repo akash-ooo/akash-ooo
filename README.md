@@ -3,7 +3,7 @@ Greetings, I'm Arif! As a fullstack web developer with over 4+ years of experien
  
 
 ### **</> Skills**
-FRONT-END DEVELOPMENT: JavaScript • Vue.js • Nuxt.js • Vue Router • Vuex Pinia • REST API • jQuery • AJAX • JSON/XML • CSS • SCSS • RWD • Tailwind CSS • Bootstrap • Materialize • HTML • On-Page SEO
+FRONT-END DEVELOPMENT: JavaScript • Vue.js • Nuxt.js • Vue Router • Pinia • REST API • jQuery • AJAX • JSON/XML • CSS • SCSS • RWD • Tailwind CSS • Bootstrap • Materialize • HTML • On-Page SEO
 
 BACK-END: Object-Oriented PHP • Laravel • MVC Architecture • PHP Unit • Node.js • Express.js • MySQL (phpMyAdmin) • SQLite • MongoDB • Firebase • Testing & Debugging • Content Delivery Network (CDN) • Apache • Nginx • Web Hosting Management (WHM & cPanel) • Domain Management
 
